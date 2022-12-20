@@ -71,3 +71,7 @@ If you are getting ready for an interview, for any of the backend position (Seni
 41. Circuit breaker
 42. Check services in spring cloud
 43. Hibernate1. Distributed system
+
+## Design patterns
+[Checkout the list](https://github.com/mazhar-hassan/engineering-career-roadmap/blob/master/design-patterns.md)
+
