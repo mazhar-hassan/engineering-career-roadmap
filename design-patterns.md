@@ -25,6 +25,11 @@ Your code should not reply on concrete classes, and life cycle management of the
 ## List of Design Patterns
 
 * **Singleton** - [Its the father of patterns and mother of the interview questions](https://www.youtube.com/watch?v=TBcD1iNijtw&list=PLLqjNYIgOqeSELdzd60Ppq0pHEUX5xJwN) 
+
+[![Singleton Pattern playlist](https://img.youtube.com/vi/TBcD1iNijtw/0.jpg)](https://www.youtube.com/watch?v=TBcD1iNijtw&list=PLLqjNYIgOqeSELdzd60Ppq0pHEUX5xJwN)
+
+
+
 * Facade, Adapter, Bridge, Composite, Decorator, Flyweight and Proxy
 * Factory, Builder, Prototype, Object pool
 * Command, Chain of responsibility, Observer, State, Strategy, Template method, Visitor 
