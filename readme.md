@@ -15,4 +15,6 @@
 
 
 ## System Design Intervew Questions
-https://www.youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY
+* https://www.youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY
+* https://www.youtube.com/playlist?list=PLJq-63ZRPdBssWTtcUlbngD_O5HaxXu6k
+* 
