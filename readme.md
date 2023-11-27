@@ -12,3 +12,7 @@
 * [Design Patterns](design-patterns.md)
 * Architectural patterns
 * Anti patterns
+
+
+## System Design Intervew Questions
+https://www.youtube.com/playlist?list=PLJq-63ZRPdBt423WbyAD1YZO0Ljo1pzvY
