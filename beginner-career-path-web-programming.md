@@ -11,6 +11,12 @@ Your final goal is to become a PROGRAMMER (Software Engineer)
 * Learn CSS (Cosmetic - Helps in designing the website beautifully)
 * Learn Java Script (Helps in validating the input - empty username or password) 
 
+#### Tutorials by Awais Kazmi (Urdu/Hindi) 
+
+* Understand web desiging by building a website design https://www.youtube.com/watch?v=AngsFKy6YIQ&t=4320s
+* Front-End Development Playlist https://www.youtube.com/watch?v=63nl_KvYuOw&list=PLdLrrgWD-JeQdRLoUGI0hUdbel8zC8QTF
+* CSS wihout Tears Playlist https://www.youtube.com/watch?v=g1eu5KkfJCw&list=PLdLrrgWD-JeRYXyBeG0aCLzCP0OOdHD4C
+
 ## Step 2 - Build Static Websites
 * Create a personal website about you (Portfolio website)
 * Create a website for a Saloon
